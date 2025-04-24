@@ -21,10 +21,10 @@ This repository aims to collect and organize research exploring in-context learn
 
 ## Papers
 
-- **In-Context LoRA for Diffusion Transformers** (Arxiv 2024) [[Paper](https://arxiv.org/abs/2504.02160)] [[Code](https://github.com/ali-vilab/In-Context-LoRA)] [[Project Page](https://ali-vilab.github.io/In-Context-LoRA-Page)]
+- **In-Context LoRA for Diffusion Transformers** (Arxiv 2024) [[Paper](https://arxiv.org/abs/2504.02160)] [[Code](https://github.com/ali-vilab/In-Context-LoRA)] [[Project Page](https://ali-vilab.github.io/In-Context-LoRA-Page)]  
   *Lianghua Huang, Wei Wang, Zhi-Fan Wu, Yupeng Shi, Huanzhang Dou, Chen Liang, Yutong Feng, Yu Liu, Jingren Zhou*
   
-- **OminiControl: Minimal and Universal Control for Diffusion Transformer** (Arxiv 2024) [[Paper](https://arxiv.org/abs/2504.02160)] [[Code](https://github.com/Yuanshi9815/OminiControl)]
+- **OminiControl: Minimal and Universal Control for Diffusion Transformer** (Arxiv 2024) [[Paper](https://arxiv.org/abs/2504.02160)] [[Code](https://github.com/Yuanshi9815/OminiControl)]  
   *Zhenxiong Tan, Songhua Liu, Xingyi Yang, Qiaochu Xue, and Xinchao Wang*
   
 - **EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer** (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2503.07027)] [[Code](https://github.com/Xiaojiu-z/EasyControl)] [[Project Page](https://easycontrolproj.github.io/)]  
@@ -33,9 +33,6 @@ This repository aims to collect and organize research exploring in-context learn
 - **UNO: A Universal Customization Method for Both Single and Multi-Subject Conditioning** (Arxiv 2024) [[Paper](https://arxiv.org/abs/2504.02160)] [[Code](https://github.com/bytedance/UNO)] [[Project Page](https://bytedance.github.io/UNO/)]  
   *Shaojin Wu, Mengqi Huang*, Wenxu Wu, Yufeng Cheng, Fei Ding+, Qian He*
   
- 
-
-
 
 ## Contributing
 
