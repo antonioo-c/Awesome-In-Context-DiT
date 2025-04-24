@@ -10,13 +10,6 @@ A curated list of research papers that leverage in-context learning techniques i
 
 - [Introduction](#introduction)
 - [Papers](#papers)
-  - [Image Generation](#image-generation)
-  - [Text-to-Image](#text-to-image)
-  - [Image Editing](#image-editing)
-  - [Video Generation](#video-generation)
-  - [3D Generation](#3d-generation)
-  - [Other Applications](#other-applications)
-- [Resources](#resources)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -28,47 +21,21 @@ This repository aims to collect and organize research exploring in-context learn
 
 ## Papers
 
-### Image Generation
+- **In-Context LoRA for Diffusion Transformers** (Arxiv 2024) [[Paper](https://arxiv.org/abs/2504.02160)] [[Code](https://github.com/ali-vilab/In-Context-LoRA)] [[Project Page](https://ali-vilab.github.io/In-Context-LoRA-Page)]
+  *Lianghua Huang, Wei Wang, Zhi-Fan Wu, Yupeng Shi, Huanzhang Dou, Chen Liang, Yutong Feng, Yu Liu, Jingren Zhou*
+  
+- **OminiControl: Minimal and Universal Control for Diffusion Transformer** (Arxiv 2024) [[Paper](https://arxiv.org/abs/2504.02160)] [[Code](https://github.com/Yuanshi9815/OminiControl)]
+  *Zhenxiong Tan, Songhua Liu, Xingyi Yang, Qiaochu Xue, and Xinchao Wang*
+  
+- **EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer** (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2503.07027)] [[Code](https://github.com/Xiaojiu-z/EasyControl)] [[Project Page](https://easycontrolproj.github.io/)]  
+  *Yuxuan Zhang, Yirui Yuan, Yiren Song, Haofan Wang, Jiaming Liu*
 
-- **Paper Title** (Conference/Journal YYYY) [[Paper](link)] [[Code](link)] [[Project Page](link)]  
-  *Author 1, Author 2, Author 3*  
-  Summary of the paper's approach and contributions.
+- **UNO: A Universal Customization Method for Both Single and Multi-Subject Conditioning** (Arxiv 2024) [[Paper](https://arxiv.org/abs/2504.02160)] [[Code](https://github.com/bytedance/UNO)] [[Project Page](https://bytedance.github.io/UNO/)]  
+  *Shaojin Wu, Mengqi Huang*, Wenxu Wu, Yufeng Cheng, Fei Ding+, Qian He*
+  
+ 
 
-### Text-to-Image
 
-- **Paper Title** (Conference/Journal YYYY) [[Paper](link)] [[Code](link)] [[Project Page](link)]  
-  *Author 1, Author 2, Author 3*  
-  Summary of the paper's approach and contributions.
-
-### Image Editing
-
-- **Paper Title** (Conference/Journal YYYY) [[Paper](link)] [[Code](link)] [[Project Page](link)]  
-  *Author 1, Author 2, Author 3*  
-  Summary of the paper's approach and contributions.
-
-### Video Generation
-
-- **Paper Title** (Conference/Journal YYYY) [[Paper](link)] [[Code](link)] [[Project Page](link)]  
-  *Author 1, Author 2, Author 3*  
-  Summary of the paper's approach and contributions.
-
-### 3D Generation
-
-- **Paper Title** (Conference/Journal YYYY) [[Paper](link)] [[Code](link)] [[Project Page](link)]  
-  *Author 1, Author 2, Author 3*  
-  Summary of the paper's approach and contributions.
-
-### Other Applications
-
-- **Paper Title** (Conference/Journal YYYY) [[Paper](link)] [[Code](link)] [[Project Page](link)]  
-  *Author 1, Author 2, Author 3*  
-  Summary of the paper's approach and contributions.
-
-## Resources
-
-- [Original DiT Paper](https://arxiv.org/abs/2212.09748) - Scalable Diffusion Models with Transformers
-- [DiT GitHub Repository](https://github.com/facebookresearch/DiT)
-- [Hugging Face DiT Models](https://huggingface.co/models?search=DiT)
 
 ## Contributing
 
